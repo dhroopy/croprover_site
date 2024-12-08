@@ -4,6 +4,7 @@
 # EXPOSE 80
 # CMD ["nginx", "-g", "daemon off;"]
 
+
 # Use a PHP base image
 FROM php:7.4-apache
 
