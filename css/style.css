@@ -1,0 +1,86 @@
+.buttonIcon{
+    border: 1px solid;
+    border-radius: 100%;
+    background-color: rgba(22, 138, 10, 1);
+   
+}
+#Hero{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.4)), url(../images/background/agriculture-farm-land-countryside-aerial-view-green-3200x2000-3985\ 1\ \(1\).png);
+    height: 100vh;
+    background-size: cover;
+    position: relative;
+}
+#Navbar{
+    text-shadow: 8px 4px 6px rgb(20, 20, 20);
+}
+.mmm{
+    position: absolute;
+    top: 30%;
+}
+
+.nnn{
+    position: absolute;
+    top: 100%;
+
+   
+}
+#CropRoverA{
+    background-color: black;
+    color: white;
+}
+#CropRoverB{
+    background-color: #0E2A1A;
+    color: white;
+}
+#Solution{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.5)), url(../images/background/Crop\ Rover\ Rendering\ 2\ 2.png);
+    height: 100vh;
+    background-size: cover;
+}
+#contact{
+    background-color: black;
+    color: white;
+}
+.cont{
+    width: 20px;
+    height: 20px;
+    border: 1px solid green;
+    border-radius: 100%;
+    color: white;
+    background-color: green;
+}
+
+
+/* ====================== */
+
+
+.line-container {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.line-text {
+    /* font-family: 'DM Serif Text', serif; */
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.line {
+    flex-grow: 1;
+    height: 1px;
+    background-color: black;
+}
+
+.line-text span {
+    font-weight: normal; /* "us" styled as normal */
+    font-style: italic;
+}
+#Invest{
+    background: url(../images/illustration/image\ 5.png);
+    background-repeat: no-repeat;
+   background-size: 60% 80%;
+  background-position: right bottom; 
+  height: 90vh;
+}
